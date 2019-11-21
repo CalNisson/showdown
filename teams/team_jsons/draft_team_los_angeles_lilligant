@@ -1,0 +1,166 @@
+[
+    {
+        "name": "Kartana",
+        "species": "",
+        "item": "choicescarf",
+        "ability": "beastboost",
+        "moves": [
+            "leafblade",
+            "sacredsword",
+            "smartstrike",
+            "knockoff"
+        ],
+        "nature": "Jolly",
+        "evs": {
+            "hp": "4",
+            "atk": "252",
+            "def": "",
+            "spa": "",
+            "spd": "",
+            "spe": "252"
+        },
+        "gender": "",
+        "ivs": {},
+        "shiny": "",
+        "level": ""
+    },
+    {
+        "name": "Kyurem-Black",
+        "species": "",
+        "item": "iciumz",
+        "ability": "teravolt",
+        "moves": [
+            "freezeshock",
+            "fusionbolt",
+            "icebeam",
+            "earthpower"
+        ],
+        "nature": "Naive",
+        "evs": {
+            "hp": "",
+            "atk": "252",
+            "def": "",
+            "spa": "4",
+            "spd": "",
+            "spe": "252"
+        },
+        "gender": "",
+        "ivs": {},
+        "shiny": "",
+        "level": ""
+    },
+    {
+        "name": "Aerodactyl",
+        "species": "",
+        "item": "aerodactylite",
+        "ability": "unnerve",
+        "moves": [
+            "stoneedge",
+            "earthquake",
+            "icefang",
+            "roost"
+        ],
+        "nature": "Jolly",
+        "evs": {
+            "hp": "",
+            "atk": "252",
+            "def": "4",
+            "spa": "",
+            "spd": "",
+            "spe": "252"
+        },
+        "gender": "",
+        "ivs": {},
+        "shiny": "",
+        "level": ""
+    },
+    {
+        "name": "Entei",
+        "species": "",
+        "item": "choiceband",
+        "ability": "innerfocus",
+        "moves": [
+            "sacredfire",
+            "extremespeed",
+            "stoneedge",
+            "stompingtantrum"
+        ],
+        "nature": "Adamant",
+        "evs": {
+            "hp": "",
+            "atk": "252",
+            "def": "4",
+            "spa": "",
+            "spd": "",
+            "spe": "252"
+        },
+        "gender": "",
+        "ivs": {},
+        "shiny": "",
+        "level": ""
+    },
+    {
+        "name": "Primarina",
+        "species": "",
+        "item": "choicespecs",
+        "ability": "torrent",
+        "moves": [
+            "hydropump",
+            "moonblast",
+            "icebeam",
+            "psychic"
+        ],
+        "nature": "Modest",
+        "evs": {
+            "hp": "40",
+            "atk": "",
+            "def": "",
+            "spa": "252",
+            "spd": "",
+            "spe": "216"
+        },
+        "gender": "",
+        "ivs": {
+            "hp": "",
+            "atk": "0",
+            "def": "",
+            "spa": "",
+            "spd": "",
+            "spe": ""
+        },
+        "shiny": "",
+        "level": ""
+    },
+    {
+        "name": "Rotom",
+        "species": "",
+        "item": "iapapaberry",
+        "ability": "levitate",
+        "moves": [
+            "defog",
+            "voltswitch",
+            "willowisp",
+            "hex"
+        ],
+        "nature": "Timid",
+        "evs": {
+            "hp": "248",
+            "atk": "",
+            "def": "",
+            "spa": "8",
+            "spd": "",
+            "spe": "252"
+        },
+        "gender": "",
+        "ivs": {
+            "hp": "",
+            "atk": "0",
+            "def": "",
+            "spa": "",
+            "spd": "",
+            "spe": ""
+        },
+        "shiny": "",
+        "level": ""
+    }
+]
