@@ -78,7 +78,7 @@
         "name": "Entei",
         "species": "",
         "item": "choiceband",
-        "ability": "innerfocus",
+        "ability": "pressure",
         "moves": [
             "sacredfire",
             "extremespeed",
