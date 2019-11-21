@@ -21,7 +21,7 @@
         },
         "gender": "",
         "ivs": {},
-        "shiny": "",
+        "shiny": "yes",
         "level": ""
     },
     {
@@ -46,7 +46,7 @@
         },
         "gender": "",
         "ivs": {},
-        "shiny": "",
+        "shiny": "yes",
         "level": ""
     },
     {
@@ -71,7 +71,7 @@
         },
         "gender": "",
         "ivs": {},
-        "shiny": "",
+        "shiny": "yes",
         "level": ""
     },
     {
@@ -96,7 +96,7 @@
         },
         "gender": "",
         "ivs": {},
-        "shiny": "",
+        "shiny": "yes",
         "level": ""
     },
     {
@@ -128,7 +128,7 @@
             "spd": "",
             "spe": ""
         },
-        "shiny": "",
+        "shiny": "yes",
         "level": ""
     },
     {
@@ -160,7 +160,7 @@
             "spd": "",
             "spe": ""
         },
-        "shiny": "",
+        "shiny": "yes",
         "level": ""
     }
 ]
